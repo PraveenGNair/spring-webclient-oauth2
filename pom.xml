@@ -8,7 +8,7 @@
         <version>2.7.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>demo</groupId>
+    <groupId>au.com.oauth2demo</groupId>
     <artifactId>webclientoauth2</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>

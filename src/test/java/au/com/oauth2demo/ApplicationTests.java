@@ -1,4 +1,4 @@
-package au.com.foxtel.oauth2demo;
+package au.com.oauth2demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

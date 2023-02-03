@@ -1,4 +1,4 @@
-package au.com.foxtel.oauth2demo.config;
+package au.com.oauth2demo.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

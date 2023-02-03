@@ -1,4 +1,4 @@
-package au.com.foxtel.oauth2demo.controller;
+package au.com.oauth2demo.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import org.springframework.beans.factory.annotation.Value;
